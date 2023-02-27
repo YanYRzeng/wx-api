@@ -1,0 +1,9 @@
+server:
+  port: 9090
+
+
+wx:
+  appId: wx999e5ef601a3b90c
+  appSecret: af279394bc50e1e971fa5d718f622733
+  token: jianjiu
+
